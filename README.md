@@ -5,7 +5,8 @@ y descubre quién se quedó a solas con la víctima. Cada mundo tiene su propia 
 maestro. Juego web autónomo en un único `index.html`.
 
 **Jugar:** https://spyder-cripto.github.io/crimenes-de-epoca/ · Cinco casos más en
-[la Edad Media](https://spyder-cripto.github.io/crimenes-de-epoca-edad-media/).
+[la Edad Media](https://spyder-cripto.github.io/crimenes-de-epoca-edad-media/) · El más difícil:
+[el Gran Maestro, en Roma](https://spyder-cripto.github.io/crimenes-de-epoca-gran-maestro/).
 
 ![Crímenes de época](captura.png)
 
